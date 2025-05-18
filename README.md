@@ -30,7 +30,8 @@ The **Startup Investment Analysis Dashboard** enables users to explore and visua
 
 ## 🖥️ Preview
 
-> *Coming soon*: Add screenshots or a GIF of the dashboard here!
+> ![image](https://github.com/user-attachments/assets/b97fc25c-9215-4d40-ad80-3b4ec65ad024)
+
 
 ---
 
